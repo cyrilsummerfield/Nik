@@ -1,2 +1,2 @@
 # Nik
-An AI assistant powered by ChatGPT (or any other model you choose) that can open websites in a browser on your computer.
+This is an AI assistant that I made (with a little help from ChatGPT 😉.) It allows you to talk to various GenAI models verbally, as well as allows the AI to open websites in Chrome. You can be direct with it, such as "Open Gmail," or you can be more open, such as "Open a website with baseball stats."
